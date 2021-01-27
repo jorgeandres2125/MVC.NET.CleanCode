@@ -1,0 +1,11 @@
+C:\NetCleanArchitecture\CleanArch\CleanArch.Application\obj\Debug\netcoreapp3.0\CleanArch.Application.csprojAssemblyReference.cache
+C:\NetCleanArchitecture\CleanArch\CleanArch.Application\obj\Debug\netcoreapp3.0\CleanArch.Application.AssemblyInfoInputs.cache
+C:\NetCleanArchitecture\CleanArch\CleanArch.Application\obj\Debug\netcoreapp3.0\CleanArch.Application.AssemblyInfo.cs
+C:\NetCleanArchitecture\CleanArch\CleanArch.Application\bin\Debug\netcoreapp3.0\CleanArch.Application.deps.json
+C:\NetCleanArchitecture\CleanArch\CleanArch.Application\bin\Debug\netcoreapp3.0\CleanArch.Application.dll
+C:\NetCleanArchitecture\CleanArch\CleanArch.Application\bin\Debug\netcoreapp3.0\CleanArch.Application.pdb
+C:\NetCleanArchitecture\CleanArch\CleanArch.Application\bin\Debug\netcoreapp3.0\CleanArch.Domain.dll
+C:\NetCleanArchitecture\CleanArch\CleanArch.Application\bin\Debug\netcoreapp3.0\CleanArch.Domain.pdb
+C:\NetCleanArchitecture\CleanArch\CleanArch.Application\obj\Debug\netcoreapp3.0\CleanArch.Application.csproj.CopyComplete
+C:\NetCleanArchitecture\CleanArch\CleanArch.Application\obj\Debug\netcoreapp3.0\CleanArch.Application.dll
+C:\NetCleanArchitecture\CleanArch\CleanArch.Application\obj\Debug\netcoreapp3.0\CleanArch.Application.pdb

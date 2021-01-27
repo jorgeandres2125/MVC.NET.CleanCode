@@ -1,0 +1,29 @@
+﻿@model CleanArch.Application.ViewModels.CourseViewModel
+    <div class="container body-content">
+        <!--Table-->
+        <table class="table">
+            <!--Table head-->
+            <thead>
+                <tr>
+                    <th></th>
+                    <th>Name</th>
+                    <th>Description</th>
+                </tr>
+            </thead>
+            <!--Table head-->
+            <!--Table body-->
+            <tbody>
+                @foreach (var course in Model.Courses)
+                {
+                    <tr>
+                        
+                        <td><img src="@ViewData["CurrentHost"]@course.ImageUrl"height="50" width="50" /></td>
+                        <td><span>@course.Name</span></td>
+                        <td><span>@course.Description</span></td>
+                    </tr>
+                }
+            </tbody>
+            <!--Table body-->
+        </table>
+        <!--Table-->
+    </div>

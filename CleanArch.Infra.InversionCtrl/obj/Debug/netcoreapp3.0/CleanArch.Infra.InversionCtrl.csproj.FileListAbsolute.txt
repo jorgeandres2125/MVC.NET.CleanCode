@@ -1,0 +1,15 @@
+C:\NetCleanArchitecture\CleanArch\CleanArch.Infra.InversionCtrl\bin\Debug\netcoreapp3.0\CleanArch.Infra.InversionCtrl.deps.json
+C:\NetCleanArchitecture\CleanArch\CleanArch.Infra.InversionCtrl\bin\Debug\netcoreapp3.0\CleanArch.Infra.InversionCtrl.dll
+C:\NetCleanArchitecture\CleanArch\CleanArch.Infra.InversionCtrl\obj\Debug\netcoreapp3.0\CleanArch.Infra.InversionCtrl.AssemblyInfoInputs.cache
+C:\NetCleanArchitecture\CleanArch\CleanArch.Infra.InversionCtrl\obj\Debug\netcoreapp3.0\CleanArch.Infra.InversionCtrl.AssemblyInfo.cs
+C:\NetCleanArchitecture\CleanArch\CleanArch.Infra.InversionCtrl\bin\Debug\netcoreapp3.0\CleanArch.Infra.InversionCtrl.pdb
+C:\NetCleanArchitecture\CleanArch\CleanArch.Infra.InversionCtrl\bin\Debug\netcoreapp3.0\CleanArch.Application.dll
+C:\NetCleanArchitecture\CleanArch\CleanArch.Infra.InversionCtrl\bin\Debug\netcoreapp3.0\CleanArch.Domain.dll
+C:\NetCleanArchitecture\CleanArch\CleanArch.Infra.InversionCtrl\bin\Debug\netcoreapp3.0\CleanArch.Infra.Data.dll
+C:\NetCleanArchitecture\CleanArch\CleanArch.Infra.InversionCtrl\bin\Debug\netcoreapp3.0\CleanArch.Application.pdb
+C:\NetCleanArchitecture\CleanArch\CleanArch.Infra.InversionCtrl\bin\Debug\netcoreapp3.0\CleanArch.Infra.Data.pdb
+C:\NetCleanArchitecture\CleanArch\CleanArch.Infra.InversionCtrl\bin\Debug\netcoreapp3.0\CleanArch.Domain.pdb
+C:\NetCleanArchitecture\CleanArch\CleanArch.Infra.InversionCtrl\obj\Debug\netcoreapp3.0\CleanArch.Infra.InversionCtrl.csprojAssemblyReference.cache
+C:\NetCleanArchitecture\CleanArch\CleanArch.Infra.InversionCtrl\obj\Debug\netcoreapp3.0\CleanArch.Infra.InversionCtrl.csproj.CopyComplete
+C:\NetCleanArchitecture\CleanArch\CleanArch.Infra.InversionCtrl\obj\Debug\netcoreapp3.0\CleanArch.Infra.InversionCtrl.dll
+C:\NetCleanArchitecture\CleanArch\CleanArch.Infra.InversionCtrl\obj\Debug\netcoreapp3.0\CleanArch.Infra.InversionCtrl.pdb
